@@ -1,16 +1,7 @@
-# data_fetch_bloc
+# Screenshots
 
-A new Flutter project.
+<p align="center">
+  <img src="https://github.com/Ikhtiar76/data_fetch_bloc/assets/111075393/e59d207a-f977-43d7-abfd-1e45e612727f" width="150" />
+  <img src="https://github.com/Ikhtiar76/data_fetch_bloc/assets/111075393/ddc4e81a-6f22-4e27-abd1-e023d51d2d65" width="150" /> 
+</p>
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
